@@ -1,0 +1,314 @@
+Optimization Beginning:
+Epoch: 0000  Loss: 8.70753098  Time: 17.5898s
+Epoch: 0001  Loss: 8.70744991  Time: 17.4390s
+Epoch: 0002  Loss: 8.70727158  Time: 17.6887s
+Epoch: 0003  Loss: 8.70701981  Time: 17.2783s
+Epoch: 0004  Loss: 8.70650768  Time: 17.5026s
+Epoch: 0005  Loss: 8.70567226  Time: 17.3753s
+Epoch: 0006  Loss: 8.70434475  Time: 17.2177s
+Epoch: 0007  Loss: 8.70198822  Time: 17.3520s
+Epoch: 0008  Loss: 8.69822407  Time: 17.3484s
+Epoch: 0009  Loss: 8.69154835  Time: 17.4557s
+Epoch: 0010  Loss: 8.68164921  Time: 17.4466s
+Epoch: 0011  Loss: 8.66927242  Time: 17.3339s
+Epoch: 0012  Loss: 8.64610481  Time: 17.3778s
+Epoch: 0013  Loss: 8.61568451  Time: 17.3334s
+Epoch: 0014  Loss: 8.57622242  Time: 17.3939s
+Epoch: 0015  Loss: 8.50773144  Time: 17.4037s
+Epoch: 0016  Loss: 8.44100857  Time: 17.5744s
+Epoch: 0017  Loss: 8.33719540  Time: 17.5260s
+Epoch: 0018  Loss: 8.23153114  Time: 17.6187s
+Epoch: 0019  Loss: 8.11870480  Time: 17.6034s
+Epoch: 0020  Loss: 8.03021431  Time: 17.5582s
+Epoch: 0021  Loss: 7.90732241  Time: 17.3738s
+Epoch: 0022  Loss: 7.83071327  Time: 17.4664s
+Epoch: 0023  Loss: 7.76626015  Time: 17.4708s
+Epoch: 0024  Loss: 7.69520903  Time: 17.4217s
+Epoch: 0025  Loss: 7.65753984  Time: 17.3945s
+Epoch: 0026  Loss: 7.65010834  Time: 17.1957s
+Epoch: 0027  Loss: 7.60849142  Time: 17.2548s
+Epoch: 0028  Loss: 7.59488678  Time: 16.9079s
+Epoch: 0029  Loss: 7.58130789  Time: 16.9133s
+Epoch: 0030  Loss: 7.59157515  Time: 16.9819s
+Epoch: 0031  Loss: 7.55031967  Time: 17.0867s
+Epoch: 0032  Loss: 7.56613731  Time: 16.7957s
+Epoch: 0033  Loss: 7.55468082  Time: 16.7903s
+Epoch: 0034  Loss: 7.55214739  Time: 16.9884s
+Epoch: 0035  Loss: 7.58191729  Time: 17.0003s
+Epoch: 0036  Loss: 7.53698063  Time: 16.8941s
+Epoch: 0037  Loss: 7.52216434  Time: 16.8134s
+Epoch: 0038  Loss: 7.53115416  Time: 16.9302s
+Epoch: 0039  Loss: 7.51587820  Time: 16.8203s
+Epoch: 0040  Loss: 7.52029419  Time: 16.7673s
+Epoch: 0041  Loss: 7.50927114  Time: 16.8173s
+Epoch: 0042  Loss: 7.52493143  Time: 16.6858s
+Epoch: 0043  Loss: 7.53290415  Time: 16.6934s
+Epoch: 0044  Loss: 7.53179598  Time: 16.7583s
+Epoch: 0045  Loss: 7.51946640  Time: 16.8403s
+Epoch: 0046  Loss: 7.54147959  Time: 16.7230s
+Epoch: 0047  Loss: 7.52355766  Time: 16.6348s
+Epoch: 0048  Loss: 7.52461100  Time: 16.7089s
+Epoch: 0049  Loss: 7.52766085  Time: 16.5209s
+Epoch: 0050  Loss: 7.51673555  Time: 16.4916s
+Epoch: 0051  Loss: 7.53159332  Time: 16.5217s
+Epoch: 0052  Loss: 7.57034636  Time: 16.3563s
+Epoch: 0053  Loss: 7.51226091  Time: 16.4897s
+Epoch: 0054  Loss: 7.48721600  Time: 16.5861s
+Epoch: 0055  Loss: 7.49501276  Time: 16.2320s
+Epoch: 0056  Loss: 7.50987530  Time: 16.8582s
+Epoch: 0057  Loss: 7.50033426  Time: 16.3953s
+Epoch: 0058  Loss: 7.49914360  Time: 16.6478s
+Epoch: 0059  Loss: 7.49759293  Time: 16.5931s
+Epoch: 0060  Loss: 7.49020720  Time: 16.3771s
+Epoch: 0061  Loss: 7.48977661  Time: 16.5755s
+Epoch: 0062  Loss: 7.49191475  Time: 16.4128s
+Epoch: 0063  Loss: 7.50076294  Time: 16.6013s
+Epoch: 0064  Loss: 7.50118399  Time: 16.4630s
+Epoch: 0065  Loss: 7.48329926  Time: 16.3255s
+Epoch: 0066  Loss: 7.48119450  Time: 16.4860s
+Epoch: 0067  Loss: 7.47782850  Time: 16.3708s
+Epoch: 0068  Loss: 7.49898100  Time: 16.2577s
+Epoch: 0069  Loss: 7.49610376  Time: 16.4987s
+Epoch: 0070  Loss: 7.48673820  Time: 16.4305s
+Epoch: 0071  Loss: 7.54699945  Time: 16.3540s
+Epoch: 0072  Loss: 7.49715137  Time: 16.5176s
+Epoch: 0073  Loss: 7.51101112  Time: 16.3324s
+Epoch: 0074  Loss: 7.49533796  Time: 16.3492s
+Epoch: 0075  Loss: 7.51630354  Time: 16.3062s
+Epoch: 0076  Loss: 7.48858929  Time: 16.5529s
+Epoch: 0077  Loss: 7.47895002  Time: 16.5092s
+Epoch: 0078  Loss: 7.48951960  Time: 16.3525s
+Epoch: 0079  Loss: 7.47573614  Time: 16.5457s
+Epoch: 0080  Loss: 7.48221827  Time: 16.4034s
+Epoch: 0081  Loss: 7.46990538  Time: 16.4370s
+Epoch: 0082  Loss: 7.46665001  Time: 16.2137s
+Epoch: 0083  Loss: 7.47964716  Time: 16.2975s
+Epoch: 0084  Loss: 7.47704744  Time: 16.3175s
+Epoch: 0085  Loss: 7.47878742  Time: 16.5725s
+Epoch: 0086  Loss: 7.47941351  Time: 16.3319s
+Epoch: 0087  Loss: 7.48004103  Time: 16.5204s
+Epoch: 0088  Loss: 7.47233868  Time: 16.6324s
+Epoch: 0089  Loss: 7.47090101  Time: 16.5258s
+Epoch: 0090  Loss: 7.47973108  Time: 16.2995s
+Epoch: 0091  Loss: 7.47489643  Time: 16.4622s
+Epoch: 0092  Loss: 7.47016430  Time: 16.4451s
+Epoch: 0093  Loss: 7.47530270  Time: 16.3081s
+Epoch: 0094  Loss: 7.47299051  Time: 16.0685s
+Epoch: 0095  Loss: 7.46853685  Time: 16.3491s
+Epoch: 0096  Loss: 7.46828222  Time: 16.3841s
+Epoch: 0097  Loss: 7.46522522  Time: 16.5177s
+Epoch: 0098  Loss: 7.48095274  Time: 16.4359s
+Epoch: 0099  Loss: 7.46876669  Time: 16.3707s
+Epoch: 0100  Loss: 7.46232510  Time: 16.4053s
+Epoch: 0101  Loss: 7.46888781  Time: 16.3140s
+Epoch: 0102  Loss: 7.46443796  Time: 16.1773s
+Epoch: 0103  Loss: 7.46211004  Time: 16.3067s
+Epoch: 0104  Loss: 7.46426916  Time: 16.4732s
+Epoch: 0105  Loss: 7.47863245  Time: 16.4074s
+Epoch: 0106  Loss: 7.47508430  Time: 16.2110s
+Epoch: 0107  Loss: 7.47339869  Time: 16.5072s
+Epoch: 0108  Loss: 7.46139956  Time: 17.0198s
+Epoch: 0109  Loss: 7.46948576  Time: 16.8608s
+Epoch: 0110  Loss: 7.45057774  Time: 17.0136s
+Epoch: 0111  Loss: 7.46365833  Time: 17.0181s
+Epoch: 0112  Loss: 7.46232033  Time: 16.8510s
+Epoch: 0113  Loss: 7.46517611  Time: 16.9526s
+Epoch: 0114  Loss: 7.45692396  Time: 17.1089s
+Epoch: 0115  Loss: 7.46956968  Time: 16.7738s
+Epoch: 0116  Loss: 7.46627426  Time: 16.9961s
+Epoch: 0117  Loss: 7.49855757  Time: 16.9419s
+Epoch: 0118  Loss: 7.45381498  Time: 16.9529s
+Epoch: 0119  Loss: 7.45424080  Time: 16.9035s
+Epoch: 0120  Loss: 7.45856285  Time: 17.1445s
+Epoch: 0121  Loss: 7.46399307  Time: 16.8259s
+Epoch: 0122  Loss: 7.46006680  Time: 16.9093s
+Epoch: 0123  Loss: 7.47200537  Time: 16.7025s
+Epoch: 0124  Loss: 7.44704008  Time: 16.8666s
+Epoch: 0125  Loss: 7.45446157  Time: 16.7533s
+Epoch: 0126  Loss: 7.46306038  Time: 16.6616s
+Epoch: 0127  Loss: 7.45162058  Time: 16.7955s
+Epoch: 0128  Loss: 7.45543766  Time: 16.6985s
+Epoch: 0129  Loss: 7.45594168  Time: 16.7695s
+Epoch: 0130  Loss: 7.46456718  Time: 16.8181s
+Epoch: 0131  Loss: 7.46725178  Time: 16.8423s
+Epoch: 0132  Loss: 7.44817591  Time: 16.9031s
+Epoch: 0133  Loss: 7.44767475  Time: 16.9751s
+Epoch: 0134  Loss: 7.45083857  Time: 16.7839s
+Epoch: 0135  Loss: 7.43922853  Time: 16.7418s
+Epoch: 0136  Loss: 7.44039059  Time: 16.7990s
+Epoch: 0137  Loss: 7.44712687  Time: 16.7248s
+Epoch: 0138  Loss: 7.43533182  Time: 16.8414s
+Epoch: 0139  Loss: 7.44315338  Time: 16.8122s
+Epoch: 0140  Loss: 7.44505930  Time: 16.9120s
+Epoch: 0141  Loss: 7.45525932  Time: 16.7632s
+Epoch: 0142  Loss: 7.42168951  Time: 16.7874s
+Epoch: 0143  Loss: 7.43328094  Time: 17.1325s
+Epoch: 0144  Loss: 7.46792459  Time: 16.8955s
+Epoch: 0145  Loss: 7.43403673  Time: 16.8458s
+Epoch: 0146  Loss: 7.42801380  Time: 16.9285s
+Epoch: 0147  Loss: 7.41348171  Time: 16.9320s
+Epoch: 0148  Loss: 7.41678572  Time: 16.7863s
+Epoch: 0149  Loss: 7.42753839  Time: 16.9790s
+Epoch: 0150  Loss: 7.42710876  Time: 17.0373s
+Epoch: 0151  Loss: 7.39416122  Time: 16.9558s
+Epoch: 0152  Loss: 7.40475321  Time: 16.9363s
+Epoch: 0153  Loss: 7.43062210  Time: 16.9982s
+Epoch: 0154  Loss: 7.37837267  Time: 16.8680s
+Epoch: 0155  Loss: 7.37083387  Time: 16.7912s
+Epoch: 0156  Loss: 7.35186338  Time: 16.8951s
+Epoch: 0157  Loss: 7.36177540  Time: 16.8266s
+Epoch: 0158  Loss: 7.31865358  Time: 16.8664s
+Epoch: 0159  Loss: 7.31471968  Time: 16.8886s
+Epoch: 0160  Loss: 7.29394341  Time: 16.7237s
+Epoch: 0161  Loss: 7.27831841  Time: 17.1610s
+Epoch: 0162  Loss: 7.27281380  Time: 17.1657s
+Epoch: 0163  Loss: 7.26408958  Time: 17.1748s
+Epoch: 0164  Loss: 7.23512506  Time: 16.9098s
+Epoch: 0165  Loss: 7.22672129  Time: 16.7131s
+Epoch: 0166  Loss: 7.25098133  Time: 17.0018s
+Epoch: 0167  Loss: 7.21607351  Time: 16.8506s
+Epoch: 0168  Loss: 7.26622295  Time: 16.7920s
+Epoch: 0169  Loss: 7.21340322  Time: 16.7332s
+Epoch: 0170  Loss: 7.20750523  Time: 16.7622s
+Epoch: 0171  Loss: 7.20944595  Time: 16.8241s
+Epoch: 0172  Loss: 7.20255947  Time: 16.9893s
+Epoch: 0173  Loss: 7.25939560  Time: 17.0236s
+Epoch: 0174  Loss: 7.20590401  Time: 17.1995s
+Epoch: 0175  Loss: 7.24738216  Time: 17.2142s
+Epoch: 0176  Loss: 7.22286415  Time: 17.1563s
+Epoch: 0177  Loss: 7.22449112  Time: 17.1786s
+Epoch: 0178  Loss: 7.23772001  Time: 17.2855s
+Epoch: 0179  Loss: 7.19339418  Time: 17.3596s
+Epoch: 0180  Loss: 7.21467590  Time: 17.0491s
+Epoch: 0181  Loss: 7.24236536  Time: 17.2496s
+Epoch: 0182  Loss: 7.26202726  Time: 17.2350s
+Epoch: 0183  Loss: 7.20326805  Time: 17.2743s
+Epoch: 0184  Loss: 7.27728701  Time: 17.2526s
+Epoch: 0185  Loss: 7.21345091  Time: 17.0931s
+Epoch: 0186  Loss: 7.26751137  Time: 17.2066s
+Epoch: 0187  Loss: 7.21420956  Time: 17.2122s
+Epoch: 0188  Loss: 7.26463270  Time: 17.2528s
+Epoch: 0189  Loss: 7.22494698  Time: 17.2129s
+Epoch: 0190  Loss: 7.20559788  Time: 17.2696s
+Epoch: 0191  Loss: 7.22205067  Time: 17.2541s
+Epoch: 0192  Loss: 7.22072840  Time: 17.1941s
+Epoch: 0193  Loss: 7.20826483  Time: 17.2709s
+Epoch: 0194  Loss: 7.21154833  Time: 17.1777s
+Epoch: 0195  Loss: 7.20909786  Time: 17.0603s
+Epoch: 0196  Loss: 7.19373894  Time: 17.2285s
+Epoch: 0197  Loss: 7.23549509  Time: 17.2884s
+Epoch: 0198  Loss: 7.20640421  Time: 17.1575s
+Epoch: 0199  Loss: 7.22390938  Time: 17.1188s
+Epoch: 0200  Loss: 7.20402384  Time: 17.2437s
+Epoch: 0201  Loss: 7.19775867  Time: 17.1199s
+Epoch: 0202  Loss: 7.20657539  Time: 17.1600s
+Epoch: 0203  Loss: 7.20967054  Time: 17.0364s
+Epoch: 0204  Loss: 7.25433636  Time: 16.9902s
+Epoch: 0205  Loss: 7.18987656  Time: 17.0222s
+Epoch: 0206  Loss: 7.20764589  Time: 17.1101s
+Epoch: 0207  Loss: 7.19366837  Time: 16.9718s
+Epoch: 0208  Loss: 7.20793390  Time: 16.8336s
+Epoch: 0209  Loss: 7.18866587  Time: 17.1428s
+Epoch: 0210  Loss: 7.22741318  Time: 17.1153s
+Epoch: 0211  Loss: 7.18142939  Time: 16.9750s
+Epoch: 0212  Loss: 7.20315456  Time: 17.0319s
+Epoch: 0213  Loss: 7.19755793  Time: 17.0973s
+Epoch: 0214  Loss: 7.18062210  Time: 17.0726s
+Epoch: 0215  Loss: 7.19281054  Time: 17.0300s
+Epoch: 0216  Loss: 7.18496752  Time: 17.1715s
+Epoch: 0217  Loss: 7.19401598  Time: 17.1150s
+Epoch: 0218  Loss: 7.18480253  Time: 17.1363s
+Epoch: 0219  Loss: 7.19816494  Time: 17.1952s
+Epoch: 0220  Loss: 7.18293190  Time: 17.0709s
+Epoch: 0221  Loss: 7.18791437  Time: 17.2189s
+Epoch: 0222  Loss: 7.18136597  Time: 17.0848s
+Epoch: 0223  Loss: 7.21863747  Time: 17.1644s
+Epoch: 0224  Loss: 7.20969820  Time: 17.0166s
+Epoch: 0225  Loss: 7.18648624  Time: 16.9465s
+Epoch: 0226  Loss: 7.22561789  Time: 17.0590s
+Epoch: 0227  Loss: 7.17060089  Time: 17.0878s
+Epoch: 0228  Loss: 7.17678452  Time: 17.1325s
+Epoch: 0229  Loss: 7.17994261  Time: 17.0063s
+Epoch: 0230  Loss: 7.19982052  Time: 16.9853s
+Epoch: 0231  Loss: 7.19704390  Time: 17.1285s
+Epoch: 0232  Loss: 7.17479086  Time: 17.3117s
+Epoch: 0233  Loss: 7.18095112  Time: 17.2061s
+Epoch: 0234  Loss: 7.17229176  Time: 17.3555s
+Epoch: 0235  Loss: 7.21891832  Time: 17.0128s
+Epoch: 0236  Loss: 7.17502880  Time: 17.0782s
+Epoch: 0237  Loss: 7.18640471  Time: 17.0843s
+Epoch: 0238  Loss: 7.18013668  Time: 17.1182s
+Epoch: 0239  Loss: 7.19629240  Time: 17.1503s
+Epoch: 0240  Loss: 7.18090105  Time: 17.1984s
+Epoch: 0241  Loss: 7.21031618  Time: 17.1374s
+Epoch: 0242  Loss: 7.19218874  Time: 17.0769s
+Epoch: 0243  Loss: 7.20579290  Time: 17.0859s
+Epoch: 0244  Loss: 7.18817759  Time: 17.2215s
+Epoch: 0245  Loss: 7.20316362  Time: 17.2091s
+Epoch: 0246  Loss: 7.18666315  Time: 17.0575s
+Epoch: 0247  Loss: 7.17529058  Time: 17.1290s
+Epoch: 0248  Loss: 7.17364931  Time: 17.1900s
+Epoch: 0249  Loss: 7.18735600  Time: 17.2590s
+Epoch: 0250  Loss: 7.16761589  Time: 17.2564s
+Epoch: 0251  Loss: 7.19465065  Time: 17.2893s
+Epoch: 0252  Loss: 7.18366909  Time: 17.0507s
+Epoch: 0253  Loss: 7.19213057  Time: 17.2707s
+Epoch: 0254  Loss: 7.16544819  Time: 17.0871s
+Epoch: 0255  Loss: 7.16955042  Time: 17.1165s
+Epoch: 0256  Loss: 7.18036413  Time: 17.3756s
+Epoch: 0257  Loss: 7.18761826  Time: 17.0266s
+Epoch: 0258  Loss: 7.18051004  Time: 17.1683s
+Epoch: 0259  Loss: 7.17546129  Time: 17.0522s
+Epoch: 0260  Loss: 7.19019985  Time: 17.1429s
+Epoch: 0261  Loss: 7.19706678  Time: 16.9412s
+Epoch: 0262  Loss: 7.17982578  Time: 16.8898s
+Epoch: 0263  Loss: 7.17447901  Time: 16.8947s
+Epoch: 0264  Loss: 7.18283319  Time: 16.9940s
+Epoch: 0265  Loss: 7.19114780  Time: 16.5965s
+Epoch: 0266  Loss: 7.19516659  Time: 17.0656s
+Epoch: 0267  Loss: 7.17378998  Time: 16.8089s
+Epoch: 0268  Loss: 7.20664358  Time: 16.6835s
+Epoch: 0269  Loss: 7.17919016  Time: 16.8958s
+Epoch: 0270  Loss: 7.16566801  Time: 16.7691s
+Epoch: 0271  Loss: 7.17636395  Time: 16.7119s
+Epoch: 0272  Loss: 7.17485332  Time: 16.9119s
+Epoch: 0273  Loss: 7.18010712  Time: 16.7163s
+Epoch: 0274  Loss: 7.18838787  Time: 16.6363s
+Epoch: 0275  Loss: 7.17796755  Time: 16.8557s
+Epoch: 0276  Loss: 7.17138433  Time: 16.8371s
+Epoch: 0277  Loss: 7.17305946  Time: 16.7323s
+Epoch: 0278  Loss: 7.17222881  Time: 16.6106s
+Epoch: 0279  Loss: 7.19445372  Time: 16.6909s
+Epoch: 0280  Loss: 7.18016911  Time: 16.7166s
+Epoch: 0281  Loss: 7.18687487  Time: 16.6228s
+Epoch: 0282  Loss: 7.21086073  Time: 16.5414s
+Epoch: 0283  Loss: 7.17115831  Time: 16.9026s
+Early stopping!
+Optimization Finished!
+Total time elapsed: 4819.6317s
+
+Test Beginning:
+Loading 254th epoch
+Loading 3287th epoch
+accuracy: 0.9373  mic_f1: 0.9373  mac_f1: 0.9368  time: 6.2579s
+Loading 3266th epoch
+accuracy: 0.9373  mic_f1: 0.9373  mac_f1: 0.9368  time: 6.1652s
+Loading 3225th epoch
+accuracy: 0.9373  mic_f1: 0.9373  mac_f1: 0.9368  time: 6.1276s
+Loading 3243th epoch
+accuracy: 0.9373  mic_f1: 0.9373  mac_f1: 0.9368  time: 6.1326s
+Loading 3243th epoch
+accuracy: 0.9373  mic_f1: 0.9373  mac_f1: 0.9368  time: 6.1495s
+Loading 3264th epoch
+accuracy: 0.9373  mic_f1: 0.9373  mac_f1: 0.9368  time: 6.1722s
+Loading 3233th epoch
+accuracy: 0.9373  mic_f1: 0.9373  mac_f1: 0.9368  time: 6.0826s
+Loading 3228th epoch
+accuracy: 0.9373  mic_f1: 0.9373  mac_f1: 0.9368  time: 6.1145s
+Loading 3250th epoch
+accuracy: 0.9373  mic_f1: 0.9373  mac_f1: 0.9368  time: 6.1175s
+Loading 3230th epoch
+accuracy: 0.9373  mic_f1: 0.9373  mac_f1: 0.9368  time: 6.0840s
+Average accuracy: 0.9372938275337219
+Average mic_f1: 0.9372937083244324
+Average mac_f1: 0.9368313550949097

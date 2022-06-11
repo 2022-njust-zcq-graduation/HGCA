@@ -1,0 +1,25 @@
+Test Beginning:
+Loading best epoch
+Loading 2477th epoch
+accuracy: 0.9406  mic_f1: 0.9406  mac_f1: 0.9438  time: 8.7374s
+Loading 2496th epoch
+accuracy: 0.9373  mic_f1: 0.9373  mac_f1: 0.9408  time: 7.6480s
+Loading 2512th epoch
+accuracy: 0.9373  mic_f1: 0.9373  mac_f1: 0.9408  time: 7.2879s
+Loading 2494th epoch
+accuracy: 0.9406  mic_f1: 0.9406  mac_f1: 0.9438  time: 7.1275s
+Loading 2488th epoch
+accuracy: 0.9373  mic_f1: 0.9373  mac_f1: 0.9408  time: 7.0682s
+Loading 2512th epoch
+accuracy: 0.9373  mic_f1: 0.9373  mac_f1: 0.9408  time: 7.3379s
+Loading 2494th epoch
+accuracy: 0.9406  mic_f1: 0.9406  mac_f1: 0.9438  time: 7.2087s
+Loading 2483th epoch
+accuracy: 0.9406  mic_f1: 0.9406  mac_f1: 0.9438  time: 6.7879s
+Loading 2509th epoch
+accuracy: 0.9406  mic_f1: 0.9406  mac_f1: 0.9438  time: 6.9077s
+Loading 2503th epoch
+accuracy: 0.9373  mic_f1: 0.9373  mac_f1: 0.9408  time: 6.9177s
+Average accuracy: 0.9389438629150391
+Average mic_f1: 0.9389438629150391
+Average mac_f1: 0.9423090219497681
